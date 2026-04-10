@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sql\\Desktop\\var\\University\\University\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2BD203D-537B-47F5-B90B-9074C715D429}|University\\University.csproj|c:\\users\\sql\\desktop\\var\\university\\university\\university\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{C2BD203D-537B-47F5-B90B-9074C715D429}|University\\University.csproj|solutionrelative:university\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2BD203D-537B-47F5-B90B-9074C715D429}|University\\University.csproj|C:\\Users\\sql\\Desktop\\var\\University\\University\\university\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C2BD203D-537B-47F5-B90B-9074C715D429}|University\\University.csproj|solutionrelative:university\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2BD203D-537B-47F5-B90B-9074C715D429}|University\\University.csproj|C:\\Users\\sql\\Desktop\\var\\University\\University\\university\\windows\\loginwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{C2BD203D-537B-47F5-B90B-9074C715D429}|University\\University.csproj|solutionrelative:university\\windows\\loginwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2BD203D-537B-47F5-B90B-9074C715D429}|University\\University.csproj|C:\\Users\\sql\\Desktop\\var\\University\\University\\university\\windows\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C2BD203D-537B-47F5-B90B-9074C715D429}|University\\University.csproj|solutionrelative:university\\windows\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\sql\\Desktop\\var\\University\\University\\University\\Models\\Model1.edmx",
+              "RelativeDocumentMoniker": "University\\Models\\Model1.edmx",
+              "ToolTip": "C:\\Users\\sql\\Desktop\\var\\University\\University\\University\\Models\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "University\\Models\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2026-03-16T11:24:15.78Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\sql\\Desktop\\var\\University\\University\\University\\App.config",
+              "RelativeDocumentMoniker": "University\\App.config",
+              "ToolTip": "C:\\Users\\sql\\Desktop\\var\\University\\University\\University\\App.config",
+              "RelativeToolTip": "University\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-03-16T11:21:10.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\sql\\Desktop\\var\\University\\University\\University\\Windows\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "University\\Windows\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\sql\\Desktop\\var\\University\\University\\University\\Windows\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "University\\Windows\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA5wCQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T07:00:46.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\sql\\Desktop\\var\\University\\University\\University\\Windows\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "University\\Windows\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\sql\\Desktop\\var\\University\\University\\University\\Windows\\LoginWindow.xaml",
+              "RelativeToolTip": "University\\Windows\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-15T07:00:39.878Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
